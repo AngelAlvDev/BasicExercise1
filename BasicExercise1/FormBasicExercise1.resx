@@ -200,12 +200,6 @@
   <data name="archivoToolStripMenuItem.Text" xml:space="preserve">
     <value>Archivo</value>
   </data>
-  <data name="editarToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>58, 20</value>
-  </data>
-  <data name="editarToolStripMenuItem.Text" xml:space="preserve">
-    <value>Edición</value>
-  </data>
   <data name="deshacerToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+Z</value>
   </data>
@@ -332,11 +326,11 @@
   <data name="horaYFechaToolStripMenuItem.Text" xml:space="preserve">
     <value>Hora y fecha</value>
   </data>
-  <data name="formatoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>64, 20</value>
+  <data name="editarToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 20</value>
   </data>
-  <data name="formatoToolStripMenuItem.Text" xml:space="preserve">
-    <value>Formato</value>
+  <data name="editarToolStripMenuItem.Text" xml:space="preserve">
+    <value>Edición</value>
   </data>
   <data name="ajusteDeLíneaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>151, 22</value>
@@ -350,17 +344,11 @@
   <data name="fuenteToolStripMenuItem.Text" xml:space="preserve">
     <value>Fuente...</value>
   </data>
-  <data name="verToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>35, 20</value>
+  <data name="formatoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 20</value>
   </data>
-  <data name="verToolStripMenuItem.Text" xml:space="preserve">
-    <value>Ver</value>
-  </data>
-  <data name="zoomToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>155, 22</value>
-  </data>
-  <data name="zoomToolStripMenuItem.Text" xml:space="preserve">
-    <value>Zoom</value>
+  <data name="formatoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Formato</value>
   </data>
   <data name="acercarToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+Oemplus</value>
@@ -389,17 +377,23 @@
   <data name="restaurarZoomPredeterminadoToolStripMenuItem.Text" xml:space="preserve">
     <value>Restaurar zoom predeterminado</value>
   </data>
+  <data name="zoomToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>155, 22</value>
+  </data>
+  <data name="zoomToolStripMenuItem.Text" xml:space="preserve">
+    <value>Zoom</value>
+  </data>
   <data name="barraDeEstadoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>155, 22</value>
   </data>
   <data name="barraDeEstadoToolStripMenuItem.Text" xml:space="preserve">
     <value>Barra de estado</value>
   </data>
-  <data name="ayudaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 20</value>
+  <data name="verToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>35, 20</value>
   </data>
-  <data name="ayudaToolStripMenuItem.Text" xml:space="preserve">
-    <value>Ayuda</value>
+  <data name="verToolStripMenuItem.Text" xml:space="preserve">
+    <value>Ver</value>
   </data>
   <data name="verLaAyudaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>203, 22</value>
@@ -421,6 +415,12 @@
   </data>
   <data name="acercaDelBlocDeNotasToolStripMenuItem.Text" xml:space="preserve">
     <value>Acerca del Bloc de notas</value>
+  </data>
+  <data name="ayudaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 20</value>
+  </data>
+  <data name="ayudaToolStripMenuItem.Text" xml:space="preserve">
+    <value>Ayuda</value>
   </data>
   <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
@@ -2009,7 +2009,7 @@
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Form1</value>
+    <value>FormBasicExercise1</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>

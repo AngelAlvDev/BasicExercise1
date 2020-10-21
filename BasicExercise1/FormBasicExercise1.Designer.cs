@@ -1,6 +1,6 @@
 ﻿namespace BasicExercise1
 {
-    partial class Form1
+    partial class FormBasicExercise1
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormBasicExercise1));
             this.archivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nuevoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nuevaVentanaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -384,7 +384,7 @@
             resources.ApplyResources(this.label5, "label5");
             this.label5.Name = "label5";
             // 
-            // Form1
+            // FormBasicExercise1
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -397,7 +397,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form1";
+            this.Name = "FormBasicExercise1";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
